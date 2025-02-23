@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Faculty SYSTEM "Faculty.dtd"> 
+<Faculty>
+	<student registrationNumber="39074561">
+		<firstName>Haithem</firstName>
+		<familyName>Bekkari</familyName>
+		<age>23</age>
+		<addresse>
+			<number>6465464665</number>
+			<city>bayadha</city>
+			<postalCode>39007</postalCode>
+		</addresse>
+		<level>L1</level>
+		<speciality>"ComputerScience"</speciality>
+		<average>12.95</average>
+	</student>
+	<student registrationNumber="39074561">
+		<firstName>Haithem</firstName>
+		<familyName>Bekkari</familyName>
+		<age>23</age>
+		<addresse>
+			<number>6465464665</number>
+			<city>bayadha</city>
+			<postalCode>39007</postalCode>
+		</addresse>
+		<level>l3</level>
+		<speciality>"ComputerScience"</speciality>
+		<average>12.95</average>
+	</student>
+
+
+</Faculty>

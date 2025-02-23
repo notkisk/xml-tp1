@@ -1,0 +1,14 @@
+    <!ELEMENT Faculty (student+)>
+    <!ELEMENT student (firstName, familyName, age, addresse, 
+                       level, speciality, average)>
+    <!ATTLIST student registrationNumber CDATA #REQUIRED>
+    <!ELEMENT firstName (#PCDATA)>
+    <!ELEMENT familyName (#PCDATA)>
+    <!ELEMENT age (#PCDATA)>
+    <!ELEMENT addresse (number, city, postalCode)>
+    <!ELEMENT number (#PCDATA)>
+    <!ELEMENT city (#PCDATA)>
+    <!ELEMENT postalCode (#PCDATA)>
+    <!ELEMENT level (#PCDATA)>
+    <!ELEMENT speciality (#PCDATA)>
+    <!ELEMENT average (#PCDATA)>
