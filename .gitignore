@@ -1,0 +1,10 @@
+# Ignore build files
+/build/
+/dist/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore sensitive files
+.env
